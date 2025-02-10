@@ -1,7 +1,8 @@
 # Heineken - Inteligência Artificial Aplicada a Ddaos 🔥
+![Certificado](https://github.com/user-attachments/assets/c280c250-1d9c-406a-a047-964a9d522584)
 
 ## Módulo 1 ao 4 🚀
-Estes módulos são idênticos ao Suzano - Análise de Dados com Power BI. Todos os projetos são os mesmos e você pode visualizá-los aqui: 
+Estes módulos são idênticos ao Suzano - Análise de Dados com Power BI. Todos os projetos são os mesmos e você pode visualizá-los aqui: ![Bootcamp Análise de Dados](https://github.com/DantinhasMD/Bootcamp_Analise-de-DadosDIO.git)
 
 ## Módulo 5 🚀
 Neste módulo, exploramos o uso do Copilot no Excel, compreendendo como podemos usar seus insights para otimização e automação. Além disso, fizemos um projeto prático, que será explorado melhor no próximo paragráfo. 
