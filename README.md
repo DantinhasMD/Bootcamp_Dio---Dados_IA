@@ -1,4 +1,4 @@
-# Heineken - Inteligência Artificial Aplicada a Ddaos 🔥
+# Heineken - Inteligência Artificial Aplicada a Dados 🔥
 ![Certificado](https://github.com/user-attachments/assets/c280c250-1d9c-406a-a047-964a9d522584)
 
 ## Módulo 1 ao 4 🚀
